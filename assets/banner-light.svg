@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" width="1200" height="340" viewBox="0 0 1200 340">
+<title id="title">Михаил Свечкарев — Python Developer and Computer Vision enthusiast</title>
+<desc id="desc">GitHub profile banner with developer introduction and code window.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#EFF7FF"/><stop offset="1" stop-color="#E8E7FF"/></linearGradient>
+ <linearGradient id="accent" x1="0" x2="1" y1="0"><stop stop-color="#007C9A"/><stop offset="1" stop-color="#7D48CB"/></linearGradient>
+ <linearGradient id="ring" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#007C9A"/><stop offset="1" stop-color="#7D48CB"/></linearGradient>
+ <filter id="glow" x="-90%" y="-90%" width="280%" height="280%"><feGaussianBlur stdDeviation="40"/></filter>
+ <clipPath id="round"><rect width="1200" height="340" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+ <rect width="1200" height="340" fill="url(#bg)"/>
+ <ellipse cx="1090" cy="110" rx="180" ry="150" fill="#7D48CB" opacity=".10" filter="url(#glow)"/>
+ <ellipse cx="220" cy="290" rx="230" ry="60" fill="#007C9A" opacity=".10" filter="url(#glow)"/>
+ <g><line x1="24" y1="0" x2="24" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="60" y1="0" x2="60" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="96" y1="0" x2="96" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="132" y1="0" x2="132" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="168" y1="0" x2="168" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="204" y1="0" x2="204" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="240" y1="0" x2="240" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="276" y1="0" x2="276" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="312" y1="0" x2="312" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="348" y1="0" x2="348" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="384" y1="0" x2="384" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="420" y1="0" x2="420" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="456" y1="0" x2="456" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="492" y1="0" x2="492" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="528" y1="0" x2="528" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="564" y1="0" x2="564" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="600" y1="0" x2="600" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="636" y1="0" x2="636" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="672" y1="0" x2="672" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="708" y1="0" x2="708" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="744" y1="0" x2="744" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="780" y1="0" x2="780" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="816" y1="0" x2="816" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="852" y1="0" x2="852" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="888" y1="0" x2="888" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="924" y1="0" x2="924" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="960" y1="0" x2="960" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="996" y1="0" x2="996" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="1032" y1="0" x2="1032" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="1068" y1="0" x2="1068" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="1104" y1="0" x2="1104" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="1140" y1="0" x2="1140" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="1176" y1="0" x2="1176" y2="340" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="0" y1="21" x2="1200" y2="21" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="0" y1="57" x2="1200" y2="57" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="0" y1="93" x2="1200" y2="93" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="0" y1="129" x2="1200" y2="129" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="0" y1="165" x2="1200" y2="165" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="0" y1="201" x2="1200" y2="201" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="0" y1="237" x2="1200" y2="237" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="0" y1="273" x2="1200" y2="273" stroke="#C9D8EF" stroke-opacity=".12"/><line x1="0" y1="309" x2="1200" y2="309" stroke="#C9D8EF" stroke-opacity=".12"/></g>
+ <circle cx="1120" cy="40" r="205" fill="none" stroke="url(#ring)" stroke-width="1.4" opacity="0.36"/><circle cx="1120" cy="40" r="150" fill="none" stroke="url(#ring)" stroke-width="1.4" opacity="0.32"/><circle cx="1120" cy="40" r="93" fill="none" stroke="url(#ring)" stroke-width="1.4" opacity="0.23"/><circle cx="1100" cy="270" r="120" fill="none" stroke="url(#ring)" stroke-width="1.4" opacity="0.18"/>
+ <rect x="58" y="48" width="210" height="28" rx="14" fill="#D9E4FA" stroke="#C9D8EF" stroke-width="1" />
+ <circle cx="76" cy="62" r="4.5" fill="#007C9A"/>
+ <text x="89" y="67" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1" fill="#19233D">OPEN TO INTERNSHIPS</text>
+ <text x="54" y="145" font-family="Arial, DejaVu Sans, sans-serif" font-size="51" font-weight="800" fill="#19233D">МИХАИЛ СВЕЧКАРЕВ</text>
+ <rect x="57" y="162" width="94" height="5" rx="2.5" fill="url(#accent)"/>
+ <text x="55" y="202" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="17" font-weight="600" letter-spacing=".4" fill="#007C9A">PYTHON  /  COMPUTER VISION  /  SOFTWARE ENGINEERING</text>
+ <text x="55" y="243" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" fill="#465779">1st-year Software Engineering student · BMSTU Kaluga Branch</text>
+ <text x="55" y="275" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" fill="#64748B">I build things. I learn by doing. I keep improving.</text>
+ <g transform="translate(802 65)">
+   <rect width="345" height="226" rx="14" fill="#FFFFFF" stroke="#C9D8EF" stroke-width="1.5" />
+   <rect width="345" height="37" rx="14" fill="#D9E4FA"/>
+   <rect y="19" width="345" height="18" fill="#D9E4FA"/>
+   <circle cx="22" cy="18" r="5" fill="#FF6E72"/><circle cx="39" cy="18" r="5" fill="#FFD166"/><circle cx="56" cy="18" r="5" fill="#4CE0A6"/>
+   <text x="169" y="23" font-family="Consolas, monospace" font-size="12" fill="#465779">about_me.py</text>
+   <text x="21" y="71" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#7D48CB">class</text>
+   <text x="72" y="71" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#19233D">Developer:</text>
+   <text x="40" y="102" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="14" fill="#19233D">focus = </text>
+   <text x="111" y="102" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="14" fill="#007C9A">"Python"</text>
+   <text x="40" y="132" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="14" fill="#19233D">interest = </text>
+   <text x="140" y="132" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="14" fill="#007C9A">"CV"</text>
+   <text x="40" y="162" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="14" fill="#19233D">level = </text>
+   <text x="111" y="162" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="14" fill="#007C9A">"learning"</text>
+   <text x="40" y="195" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="13" fill="#64748B"># curious &amp; consistent</text>
+ </g>
+</g>
+<rect x=".6" y=".6" width="1198.8" height="338.8" rx="25" fill="none" stroke="#C9D8EF" stroke-opacity=".8"/>
+</svg>
